@@ -1,0 +1,10 @@
+{
+  "urlWeb" : "http://localhost:8086/web/projects",
+  "urlApi" : "http://localhost:8086/api/",
+  "urlWithLoginPassword" : "http://:@localhost:8086/web",
+  "env" : "DESCTOP",
+  "browser" : "chrome",
+  "testName" : "test name",
+  "methodName" : "method name",
+  "contentType" : "image/png"
+}
